@@ -24,7 +24,7 @@ const Home = () => {
           onClick={toggleCurrent}
           className={classNames(
             show.current
-              ? 'bg-slate-500 text-white ring ring-slate-700'
+              ? 'bg-slate-300 text-gray-700 ring ring-slate-700'
               : 'text-gray-600 bg-slate-200 hover:bg-slate-700 hover:text-white',
             'px-3 py-2 rounded-md text-sm font-medium'
           )}
