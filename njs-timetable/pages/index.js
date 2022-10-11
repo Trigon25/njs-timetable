@@ -15,21 +15,21 @@ const Home = () => {
 
   const [Data, setData] = React.useState(timetable)
 
-  const sem = { name: 'Show Timetable', current: isCurrent }
+  const show = { name: 'Show Timetable', current: isCurrent }
   return (
     <div className="flex min-h-screen flex-col items-center">
       <Header title="Timetable" />
-      <div className="flex-col items-center">
+      <div className="flex-col items-center pt-2">
         <button
           onClick={toggleCurrent}
           className={classNames(
-            sem.current
-              ? 'bg-gray-900 text-white'
-              : 'text-gray-300 hover:bg-gray-700 hover:text-white',
+            show.current
+              ? 'bg-slate-500 text-white ring ring-slate-700'
+              : 'text-gray-600 bg-slate-200 hover:bg-slate-700 hover:text-white',
             'px-3 py-2 rounded-md text-sm font-medium'
           )}
         >
-          {sem.name}
+          {show.name}
         </button> 
       </div>
       {isCurrent ?
