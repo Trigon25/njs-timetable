@@ -1,0 +1,509 @@
+[{
+    "timetable": "Semester One",
+    "data": [
+        {
+            "day": "Mon",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "RE0003",
+                    "time": "1130-1430",
+                    "duration": 3,
+                    "type": "SEM",
+                    "location": "RPR SR2"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "day": "Tue",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "ML0004",
+                    "time": "1030-1230",
+                    "duration": 2,
+                    "type": "TUT",
+                    "location": "LHN TR-04"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "CC0006",
+                    "time": "1330-1520",
+                    "duration": 2,
+                    "type": "TUT",
+                    "location": "ICC ColLAB"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "day": "Wed",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "SC2002/SC2006",
+                    "time": "1430-1620",
+                    "duration": 2,
+                    "type": "LAB",
+                    "location": "SPL/SWLAB3"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "day": "Thu",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "RE2011",
+                    "time": "1030-1220",
+                    "duration": 2,
+                    "type": "SEM",
+                    "location": "RPR SR1"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "SC1007",
+                    "time": "1430-1620",
+                    "duration": 2,
+                    "type": "LAB",
+                    "location": "SWLAB2"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "day": "Fri",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "RE2011",
+                    "time": "1530-1720",
+                    "duration": 2,
+                    "type": "SEM",
+                    "location": "RPR SR1"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                },
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "day": "Sat",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        },
+        {
+            "day": "Sun",
+            "slots": [
+                {
+                    "module": "-",
+                    "time": "-",
+                    "duration": 0,
+                    "type": "-",
+                    "location": "-"
+                }
+            ]
+        }
+    ]
+}]
