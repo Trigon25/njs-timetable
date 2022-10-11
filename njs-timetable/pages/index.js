@@ -10,7 +10,7 @@ function classNames(...classes) {
 }
 
 const Home = () => {
-  const [isCurrent, setIsCurrent] = React.useState('false')
+  const [isCurrent, setIsCurrent] = React.useState(false)
   const toggleCurrent = () => { setIsCurrent(prevToggle => !prevToggle) }
 
   const [Data, setData] = React.useState(timetable)
